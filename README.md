@@ -14,3 +14,5 @@ A domain name pointing to your server (e.g., myserver.com).
 Sudo rights to install and configure Apache2.
 
 ✅ 1. Installing Apache2
+sudo apt update && sudo apt upgrade -y
+sudo apt install apache2 -y
